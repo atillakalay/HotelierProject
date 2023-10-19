@@ -8,7 +8,7 @@
 
 
 
-Bu proje, Asp.Net Core kullanarak bir çok katmanlı mimari yapısında bir API ve MVC uygulamasını oluşturma sürecini pratiğe döken bir eğitim projesidir.
+Bu proje, Asp.Net Core kullanarak bir çok katmanlı mimari yapısında bir API ve MVC uygulamasını oluşturma sürecini pratiğe döken bir projedir.
 
 - Asp.Net Core API Geliştirme
 - Asp.Net Identity ve Yetkilendirme
