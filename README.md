@@ -68,7 +68,6 @@ Daha fazla ayrıntı için lütfen [Kullanım Kılavuzu](/docs/usage.md) belgesi
 Proje veya kurs hakkında herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin:
 
 - E-posta: [atilla.kalayy@gmail.com](atilla.kalayy@gmail.com)
-- LinkedIn: [LinkedIn Profilim]([https://www.linkedin.com/in/ornekad/](https://www.linkedin.com/in/atilla-kalay-0a6274163/))
 
 ## Lisans
 
